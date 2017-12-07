@@ -1,0 +1,10 @@
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.EContact.resources
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.Cache
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\goricastaklo\Documents\Alen\WebD\Contact\Contact\obj\Debug\Contact.pdb
